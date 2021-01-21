@@ -12,6 +12,10 @@ DISCLAIMER: Completion of this workshop is no guarantee of admission into the Ha
 ---
 The slide deck for this worshop can be found [here](https://docs.google.com/presentation/d/1FLeo9j9_UgLgau99DLyuvZozLiUUG51zgwUXq7XcosQ/edit?usp=sharing).
 
+## Style Guide
+---
+Refer to the following website for JavaScript styling and clean code [here](https://github.com/airbnb/javascript)
+
 ## Debugging Process
 ---
 1. Reproduce the bug before you start changing code
