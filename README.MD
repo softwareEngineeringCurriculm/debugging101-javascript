@@ -13,6 +13,7 @@ DISCLAIMER: Completion of this workshop is no guarantee of admission into the Ha
 The slide deck for this worshop can be found [here](https://docs.google.com/presentation/d/1FLeo9j9_UgLgau99DLyuvZozLiUUG51zgwUXq7XcosQ/edit?usp=sharing).
 
 ## Debugging Process
+---
 1. Reproduce the bug before you start changing code
 2. Understand stack traces from error messages
 3. Write unit tests that reproduces the bug
@@ -21,4 +22,29 @@ The slide deck for this worshop can be found [here](https://docs.google.com/pres
 6. Pair program with others/Whiteboard
 7. Celebrate and Live to see another day!!! 
 
+
+
+## Thinking about JavaScript
+---
+### Reasoning Methods
+As you embark on your learning journey, a sound method for thinking about JavaScript will be to consider each line of code as a discrete instruction being provided to your computer.
+
+* What is each line of code intended to do individually?
+* How about when combined together?
+
+It will be beneficial for your growth as a sophisticated programmer to think deeply about the intentions of your code so you can predict and understand the behavior your program produces.
+
+* What is the expected output of the code?
+* Why will the code produce the output that I expect?
+
+Thinking about each line of code can take many shapes:
+
+* How is this line of code structured and why?
+* What syntax rules is this line of code following? Not following?
+* Where is this line of code located contextually within the program?
+* What references is this line of code making to other parts of the program? Are such references sound?
+
+### Vocabulary Development
+
+Developing your vocabulary as a programmer is as important as learning to write code. To accelerate your conversational capabilities, we recommend partnering with a neighbor to discuss your code at every opportunity. The more opportunities you have to explain yourself, the better. Don't worry – with time, the ambiguity with which you presently speak about code will transform into eloquent prose.
 
