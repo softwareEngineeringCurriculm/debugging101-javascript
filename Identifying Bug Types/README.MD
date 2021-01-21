@@ -125,7 +125,7 @@ for(let book in middleEarth) {
 console.log(middleEarth[5].author);
 ```
 
-7. The following function multiplies all the numbers in together and returns the total. 
+7. The following function multiplies all the numbers in together and returns the total. Please identify any issues in the following function.
 ```JavaScript
 const multiplyAllNums = nums => {
   let total = 0;
@@ -135,9 +135,12 @@ const multiplyAllNums = nums => {
   return total;
 }
 
-multiplyAllNums([5, 4, 3, 2, 1]);
+multiplyAllNums([5, 4, 3, 2, 1]); // Expect: 120
 ```
+8. Identify the bug in following code block.
+```JavaScript
 
+```
 
 
 
