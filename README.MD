@@ -26,8 +26,6 @@ Refer to the following website for JavaScript styling and clean code [here](http
 6. Pair program with others/Whiteboard
 7. Celebrate and Live to see another day!!! 
 
-
-
 ## Thinking about JavaScript
 ---
 ### Reasoning Methods
@@ -51,4 +49,3 @@ Thinking about each line of code can take many shapes:
 ### Vocabulary Development
 
 Developing your vocabulary as a programmer is as important as learning to write code. To accelerate your conversational capabilities, we recommend partnering with a neighbor to discuss your code at every opportunity. The more opportunities you have to explain yourself, the better. Don't worry – with time, the ambiguity with which you presently speak about code will transform into eloquent prose.
-
