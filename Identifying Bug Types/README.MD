@@ -66,7 +66,7 @@ for(let book in middleEarth) {
 console.log(middleEarth[5].author);
 ```
 
-1. Identify the issue in the following code.
+3. Identify the issue in the following code.
 
 ```JavaScript
 const javaScriptWorkshops;
@@ -83,7 +83,7 @@ for(let i = 0; i < 10; i += 2) {
 console.log(total);
 ```
 
-1. Identify the issues in the following function. Fibbonaci is a series of numbers where a number is the addition of the last two numbers starting with 0 and 1.
+5. Identify the issues in the following function. Fibbonaci is a series of numbers where a number is the addition of the last two numbers starting with 0 and 1.
 The Fibbonaci Sequence: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55…
 Please note Fib{0} = 0 and Fib{1} = 1. HINT: The following algorithm requires some type of optimization to fix the issue.
 
