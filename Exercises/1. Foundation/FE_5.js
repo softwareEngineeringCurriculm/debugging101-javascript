@@ -1,3 +1,7 @@
+/*
+* The following function multiplies all the numbers in together and returns 
+* the total. Please identify any issues in the following function.
+*/
 const multiplyAllNums = nums => {
   let total = 0;
   for(num of nums) {
