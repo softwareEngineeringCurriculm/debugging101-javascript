@@ -1,3 +1,7 @@
+/*
+* Please identify the any issue(s) with the following code. There may be 
+* syntax or style errors.
+*/
 const middleEarth = {
   1: {
     title: 'The Silmarillion',
@@ -5,25 +9,23 @@ const middleEarth = {
   },
   2: {
     title: 'The Hobbit',
-    author: 'J.R.R. Tolkien';
+    author: 'J.R.R. Tolkien'
   },
   3: {
     title: 'The Fellowship of the Ring',
     author: 'J.R.R. Tolkien'
   },
   4: {
-    title: 'The Two Towers'
+    title: 'The Two Towers',
     author: 'J.R.R. Tolkien'
   },
   5: {
     title: 'The Return of the King',
-    authors: 'J.R.R. Tolkien'
+    author: 'J.R.R. Tolkien'
   }
 }
 
-console.log(middleEarth);
-
 for(let book in middleEarth) {
-  middleEarth[book].author = 'Tolkien'
+  console.log(middleEarth.book);
 }
 console.log(middleEarth[5].author);

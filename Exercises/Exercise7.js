@@ -5,4 +5,4 @@ const multiplyAllNums = nums => {
   }
   return total;
 }
-multiplyAllNums([5, 4, 3, 2, 1]); // Expect: 120
+console.log(multiplyAllNums([5, 4, 3, 2, 1])); // Expect: 120
