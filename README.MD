@@ -8,9 +8,6 @@ NEED HELP? Practice developing your autonomy as a programmer. Use Google Search,
 
 DISCLAIMER: Completion of this workshop is no guarantee of admission into the Hack Reactor immersive program, nor does it have any influence in the admissions process.
 
-## Slides 
----
-The slide deck for this worshop can be found [here](https://docs.google.com/presentation/d/1FLeo9j9_UgLgau99DLyuvZozLiUUG51zgwUXq7XcosQ/edit?usp=sharing).
 
 ## Style Guide
 ---
